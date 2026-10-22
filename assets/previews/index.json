@@ -629,6 +629,16 @@
   "file": "dillydog580__animate-roblox-characters.gif",
   "still": "dillydog580__animate-roblox-characters.jpg"
  },
+ "dy-hashiqi/VibeDS-skill": {
+  "repo": "dy-hashiqi/VibeDS-skill",
+  "url": "https://raw.githubusercontent.com/dy-hashiqi/VibeDS-skill/HEAD/examples/screenshots/entropy-1-opening.jpg",
+  "alt": "熵增开场",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 34862,
+  "file": "dy-hashiqi__VibeDS-skill.jpg",
+  "still": "dy-hashiqi__VibeDS-skill.jpg"
+ },
  "edenfunf/reelmimic": {
   "repo": "edenfunf/reelmimic",
   "url": "https://raw.githubusercontent.com/edenfunf/reelmimic/HEAD/docs/assets/demo-sugar.gif",
@@ -688,6 +698,16 @@
   "bytes": 130265,
   "file": "fltman__infofilm.jpg",
   "still": "fltman__infofilm.jpg"
+ },
+ "garycaogan/pixel-diary": {
+  "repo": "garycaogan/pixel-diary",
+  "url": "https://raw.githubusercontent.com/garycaogan/pixel-diary/HEAD/docs/demo.jpg",
+  "alt": "单人版",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 154468,
+  "file": "garycaogan__pixel-diary.jpg",
+  "still": "garycaogan__pixel-diary.jpg"
  },
  "gnipbao/story-to-handdrawn-video": {
   "repo": "gnipbao/story-to-handdrawn-video",
@@ -1049,6 +1069,16 @@
   "file": "new-xp__ultrademo.gif",
   "still": "new-xp__ultrademo.jpg"
  },
+ "noamdorr/saas-product-demo-video": {
+  "repo": "noamdorr/saas-product-demo-video",
+  "url": "https://img.youtube.com/vi/84dbi9LvWwM/maxresdefault.jpg",
+  "alt": "Reechee product demo",
+  "score": 2.0,
+  "type": "image/jpeg",
+  "bytes": 71856,
+  "file": "noamdorr__saas-product-demo-video.jpg",
+  "still": "noamdorr__saas-product-demo-video.jpg"
+ },
  "nolangz/pixel2motion": {
   "repo": "nolangz/pixel2motion",
   "url": "https://raw.githubusercontent.com/nolangz/pixel2motion/HEAD/docs/gifs/claude-horizon.gif",
@@ -1109,6 +1139,16 @@
   "file": "pyang5166__gbro-collage-info.gif",
   "still": "pyang5166__gbro-collage-info.jpg"
  },
+ "reedodev/explainer-studio": {
+  "repo": "reedodev/explainer-studio",
+  "url": "https://raw.githubusercontent.com/reedodev/explainer-studio/HEAD/docs/eight-styles.gif",
+  "alt": "The same storyboard rendered in eight hand-drawn styles, playing side by side",
+  "score": 2.5,
+  "type": "image/gif",
+  "bytes": 2423909,
+  "file": "reedodev__explainer-studio.gif",
+  "still": "reedodev__explainer-studio.jpg"
+ },
  "revfactory/showreel": {
   "repo": "revfactory/showreel",
   "url": "https://raw.githubusercontent.com/revfactory/showreel/HEAD/docs/media/showreel-preview.gif",
@@ -1148,6 +1188,16 @@
   "bytes": 110364,
   "file": "sharon-laicc__viral-video-decomposer.jpg",
   "still": "sharon-laicc__viral-video-decomposer.jpg"
+ },
+ "skailabinfo/claude-video-harness": {
+  "repo": "skailabinfo/claude-video-harness",
+  "url": "https://raw.githubusercontent.com/skailabinfo/claude-video-harness/HEAD/demo-frames.png",
+  "alt": "Один и тот же демо-ролик с тремя разными настройками",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 527775,
+  "file": "skailabinfo__claude-video-harness.jpg",
+  "still": "skailabinfo__claude-video-harness.jpg"
  },
  "smit-vanani/claude-promo-video": {
   "repo": "smit-vanani/claude-promo-video",

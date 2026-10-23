@@ -339,6 +339,16 @@
   "file": "Neelshah1810__Claude-Video-Skills.gif",
   "still": "Neelshah1810__Claude-Video-Skills.jpg"
  },
+ "PHANTOMTONYT/motion-design-skills": {
+  "repo": "PHANTOMTONYT/motion-design-skills",
+  "url": "https://raw.githubusercontent.com/PHANTOMTONYT/motion-design-skills/HEAD/examples/3d-toy-character.gif",
+  "alt": "3d-toy-character",
+  "score": 3.0,
+  "type": "image/gif",
+  "bytes": 2780713,
+  "file": "PHANTOMTONYT__motion-design-skills.gif",
+  "still": "PHANTOMTONYT__motion-design-skills.jpg"
+ },
  "Tejashmakwana/motionmaxxing": {
   "repo": "Tejashmakwana/motionmaxxing",
   "url": "https://raw.githubusercontent.com/Tejashmakwana/motionmaxxing/HEAD/docs/media/cluely-comparison.gif",
@@ -518,6 +528,16 @@
   "bytes": 103354,
   "file": "blixvip__easyedit.jpg",
   "still": "blixvip__easyedit.jpg"
+ },
+ "brookejlacey/boring-tools": {
+  "repo": "brookejlacey/boring-tools",
+  "url": "https://brookejlacey.com/boring-tools/img/review-page.jpg",
+  "alt": "A review grid with the finished video set",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 122016,
+  "file": "brookejlacey__boring-tools.jpg",
+  "still": "brookejlacey__boring-tools.jpg"
  },
  "buildwithhanif/claude-animation-skill": {
   "repo": "buildwithhanif/claude-animation-skill",
@@ -908,6 +928,16 @@
   "bytes": 2966294,
   "file": "iart-ai__youtube-video-skills.gif",
   "still": "iart-ai__youtube-video-skills.jpg"
+ },
+ "indieshade/video-director-workflow": {
+  "repo": "indieshade/video-director-workflow",
+  "url": "https://raw.githubusercontent.com/indieshade/video-director-workflow/HEAD/gallery/collage/poster.jpg",
+  "alt": "自有五秒剪贴应用",
+  "score": 1.95,
+  "type": "image/jpeg",
+  "bytes": 94096,
+  "file": "indieshade__video-director-workflow.jpg",
+  "still": "indieshade__video-director-workflow.jpg"
  },
  "intelligent-iterations/ii-content-engine": {
   "repo": "intelligent-iterations/ii-content-engine",

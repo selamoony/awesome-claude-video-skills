@@ -289,6 +289,16 @@
   "file": "Liamrjohnston__remotion-motion-graphics-skill.gif",
   "still": "Liamrjohnston__remotion-motion-graphics-skill.jpg"
  },
+ "LordVayron/video-factory": {
+  "repo": "LordVayron/video-factory",
+  "url": "https://raw.githubusercontent.com/LordVayron/video-factory/HEAD/docs/media/hero.jpg",
+  "alt": "Video Factory: the AI video studio your agent runs",
+  "score": -2.5,
+  "type": "image/jpeg",
+  "bytes": 346160,
+  "file": "LordVayron__video-factory.jpg",
+  "still": "LordVayron__video-factory.jpg"
+ },
  "Lunamos/paper2video": {
   "repo": "Lunamos/paper2video",
   "url": "https://raw.githubusercontent.com/Lunamos/paper2video/HEAD/assets/showcase/flas-02-demo.jpg",
@@ -438,6 +448,16 @@
   "bytes": 4867727,
   "file": "acelera-agency__html-animation.gif",
   "still": "acelera-agency__html-animation.jpg"
+ },
+ "actionow-ai/vvv": {
+  "repo": "actionow-ai/vvv",
+  "url": "https://raw.githubusercontent.com/actionow-ai/vvv/HEAD/docs/assets/art/recreate.jpg",
+  "alt": "A filmstrip passing through a beat grid and becoming a V: a reference measured a",
+  "score": 1.35,
+  "type": "image/jpeg",
+  "bytes": 114120,
+  "file": "actionow-ai__vvv.jpg",
+  "still": "actionow-ai__vvv.jpg"
  },
  "adunext/adu-motion-video": {
   "repo": "adunext/adu-motion-video",
@@ -648,16 +668,6 @@
   "bytes": 1137071,
   "file": "dillydog580__animate-roblox-characters.gif",
   "still": "dillydog580__animate-roblox-characters.jpg"
- },
- "dy-hashiqi/VibeDS-skill": {
-  "repo": "dy-hashiqi/VibeDS-skill",
-  "url": "https://raw.githubusercontent.com/dy-hashiqi/VibeDS-skill/HEAD/examples/screenshots/entropy-1-opening.jpg",
-  "alt": "熵增开场",
-  "score": 0.0,
-  "type": "image/jpeg",
-  "bytes": 34862,
-  "file": "dy-hashiqi__VibeDS-skill.jpg",
-  "still": "dy-hashiqi__VibeDS-skill.jpg"
  },
  "edenfunf/reelmimic": {
   "repo": "edenfunf/reelmimic",

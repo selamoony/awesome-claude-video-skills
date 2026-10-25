@@ -29,6 +29,16 @@
   "file": "124zhe__xigua-msvideo-skill.jpg",
   "still": "124zhe__xigua-msvideo-skill.jpg"
  },
+ "8533502-dev/deepseek-opus-motion-skill": {
+  "repo": "8533502-dev/deepseek-opus-motion-skill",
+  "url": "https://raw.githubusercontent.com/8533502-dev/deepseek-opus-motion-skill/HEAD/docs/media/images/qingshan-side-by-side.gif",
+  "alt": "青山：DeepSeek + skill 与 Opus 5.5 同步播放",
+  "score": 2.95,
+  "type": "image/gif",
+  "bytes": 1888750,
+  "file": "8533502-dev__deepseek-opus-motion-skill.gif",
+  "still": "8533502-dev__deepseek-opus-motion-skill.jpg"
+ },
  "Aaryan-Kapoor/video-production-skill": {
   "repo": "Aaryan-Kapoor/video-production-skill",
   "url": "https://raw.githubusercontent.com/Aaryan-Kapoor/video-production-skill/HEAD/examples/generated/papers/clawmark-living-world-benchmark/exports/clawmark_showcase_preview.gif",
@@ -309,6 +319,16 @@
   "file": "Lunamos__paper2video.jpg",
   "still": "Lunamos__paper2video.jpg"
  },
+ "MakeMyClip/editor": {
+  "repo": "MakeMyClip/editor",
+  "url": "https://raw.githubusercontent.com/MakeMyClip/editor/HEAD/docs/hero.png",
+  "alt": "MakeMyClip Editor — chat-driven video editing demo (real screencast coming soon)",
+  "score": -0.8,
+  "type": "image/png",
+  "bytes": 23566,
+  "file": "MakeMyClip__editor.jpg",
+  "still": "MakeMyClip__editor.jpg"
+ },
  "Matteoikarieth96/whiteboard-video-skill": {
   "repo": "Matteoikarieth96/whiteboard-video-skill",
   "url": "https://raw.githubusercontent.com/Matteoikarieth96/whiteboard-video-skill/HEAD/docs/demo.gif",
@@ -358,6 +378,16 @@
   "bytes": 2780713,
   "file": "PHANTOMTONYT__motion-design-skills.gif",
   "still": "PHANTOMTONYT__motion-design-skills.jpg"
+ },
+ "RohanRatwani/explainer-video-opus-5.5": {
+  "repo": "RohanRatwani/explainer-video-opus-5.5",
+  "url": "https://raw.githubusercontent.com/RohanRatwani/explainer-video-opus-5.5/HEAD/media/demo.gif",
+  "alt": "Scenes rendered by this skill: a knowledge graph sorting itself into clusters, a",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 3031086,
+  "file": "RohanRatwani__explainer-video-opus-5.5.gif",
+  "still": "RohanRatwani__explainer-video-opus-5.5.jpg"
  },
  "Tejashmakwana/motionmaxxing": {
   "repo": "Tejashmakwana/motionmaxxing",
@@ -968,6 +998,16 @@
   "bytes": 551351,
   "file": "isaachang__motion-video-workflow.gif",
   "still": "isaachang__motion-video-workflow.jpg"
+ },
+ "isabellagreco1997/script-to-video": {
+  "repo": "isabellagreco1997/script-to-video",
+  "url": "https://raw.githubusercontent.com/isabellagreco1997/script-to-video/HEAD/examples/how-does-a-door-work/out/preview.gif",
+  "alt": "",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 3595923,
+  "file": "isabellagreco1997__script-to-video.gif",
+  "still": "isabellagreco1997__script-to-video.jpg"
  },
  "jammaru/launch-video-craft": {
   "repo": "jammaru/launch-video-craft",

@@ -339,6 +339,16 @@
   "file": "Matteoikarieth96__whiteboard-video-skill.gif",
   "still": "Matteoikarieth96__whiteboard-video-skill.jpg"
  },
+ "Moessif/code-video-showcase": {
+  "repo": "Moessif/code-video-showcase",
+  "url": "https://raw.githubusercontent.com/Moessif/code-video-showcase/HEAD/assets/contact-1fps.jpg",
+  "alt": "1 fps contact sheet of the 61 s reference showcase",
+  "score": 1.75,
+  "type": "image/jpeg",
+  "bytes": 132282,
+  "file": "Moessif__code-video-showcase.jpg",
+  "still": "Moessif__code-video-showcase.jpg"
+ },
  "Monet-AI-Editor/Monet": {
   "repo": "Monet-AI-Editor/Monet",
   "url": "https://raw.githubusercontent.com/Monet-AI-Editor/Monet/HEAD/resources/ai_demo.png",
